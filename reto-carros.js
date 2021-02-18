@@ -15,3 +15,13 @@ for (i = 0; i < cantidadDeCarros; i++) {
 }
 
 console.table(autos);
+
+var articulos = [
+  { nombre: "bici", costo: 3000 },
+  { nombre: "TV", costo: 1500 },
+  { nombre: "libro", costo: 320 },
+  { nombre: "celular", costo: 10000 },
+  { nombre: "Laptop", costo: 20000 },
+  { nombre: "Teclado", costo: 500 },
+  { nombre: "Audifono", costo: 1700 },
+];
